@@ -34,4 +34,12 @@ public class Base {
 		Select select = new Select(element);
 		select.selectByVisibleText(text);
 	}
+
+	public void Alert() {
+		org.openqa.selenium.Alert alert = driver.switchTo().alert();
+		alert.accept();
+
+	}
+
+	
 }

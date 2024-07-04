@@ -11,5 +11,5 @@ Feature: user book a hotel
     Then user click the BookNow button
 
     Examples: 
-      | username   | password | Location | Hotels         | RoomType | NoOfRooms | Checkin    | Checkout   | AdultsperRoom | ChilderPerRoom | Firstname | Lastname | BillingAddress | CcardNumber      | CcardType | ExpiryDateM | ExpiryDateY | cvv |
-      | adminhotel | Admin123 | London   | Hotel Sunshine | Double   | 2 - Two   | 18/09/2023 | 19/09/2023 | 2 - Two       | 2 - Two        | Sakthi    | Balan    | f2ESkayHomes   | 4567123409781234 | VISA      | January     |        2024 | 777 |
+      | username    | password | Location | Hotels         | RoomType | NoOfRooms | Checkin    | Checkout   | AdultsperRoom | ChilderPerRoom | Firstname | Lastname | BillingAddress | CcardNumber      | CcardType | ExpiryDateM | ExpiryDateY | cvv |
+      | sakthibalan | T6X05B   | London   | Hotel Sunshine | Double   | 2 - Two   | 18/09/2023 | 19/09/2023 | 2 - Two       | 2 - Two        | Sakthi    | Balan    | f2ESkayHomes   | 4567123409781234 | VISA      | January     |        2024 | 777 |

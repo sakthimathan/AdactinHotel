@@ -7,5 +7,5 @@ Feature: user Expolre the Hotel
     When user click the Search Button
 
     Examples: 
-      | username   | password | Location | Hotels         | RoomType | NoOfRooms | Checkin    | Checkout   | AdultsperRoom | ChilderPerRoom |
-      | adminhotel | Admin123 | London   | Hotel Sunshine | Double   | 2 - Two   | 18/09/2023 | 19/09/2023 | 2 - Two       | 2 - Two        |
+      | username    | password | Location | Hotels         | RoomType | NoOfRooms | Checkin    | Checkout   | AdultsperRoom | ChilderPerRoom |
+      | sakthibalan | T6X05B   | London   | Hotel Sunshine | Double   | 2 - Two   | 18/09/2023 | 19/09/2023 | 2 - Two       | 2 - Two        |
